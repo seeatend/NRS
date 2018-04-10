@@ -1,0 +1,153 @@
+{
+    "ministries" : [
+        {
+            "id": 1,
+            "name" : "MINISTRY OF AGRICULTURE"
+        },
+
+        {
+            "id": 2,
+            "name" : "MINISTRY OF BUDGET AND PLANNING"
+        },
+        
+        {
+            "id": 3,
+            "name" : "MINISTRY OF CHIEFTAINCY MATTERS"
+        },
+        
+        {
+            "id": 4,
+            "name" : "MINISTRY OF COMMERCE AND INDUSTRY"
+        },
+        
+        {
+            "id": 5,
+            "name" : "MINISTRY OF CULTURE AND TOURISM"
+        },
+        
+        {
+            "id": 6,
+            "name" : "MINISTRY OF EDUCATION"
+        },
+        
+        {
+            "id": 7,
+            "name" : "MINISTRY OF ENUGU CAPITAL TERRITORY"
+        },
+        
+        {
+            "id": 8,
+            "name" : "MINISTRY OF ENVIRONMENT AND MINERAL RESOURCES"
+        },
+        
+        {
+            "id": 9,
+            "name" : "MINISTRY OF FINANCE AND ECONOMIC DEVELOPMENT"
+        },
+        
+        {
+            "id": 10,
+            "name" : "OFFICE OF THE ACCOUNTANT GENERAL"
+        },
+        
+        {
+            "id": 11,
+            "name" : "AUDITOR GENERAL OF THE STATE"
+        },
+        
+        {
+            "id": 12,
+            "name" : "AUDITOR GENERAL OF THE STATE"
+        },
+        
+        {
+            "id": 13,
+            "name" : "AUDITOR GENERAL FOR LOCAL GOVERNMENT"
+        },
+        
+        {
+            "id": 14,
+            "name" : "CUSTOMARY COURT OF APPEAL"
+        },
+        
+        {
+            "id": 15,
+            "name" : "MINISTRY OF GENDER AFFAIRS AND SOCIAL DEVELOPMENT"
+        },
+        
+        {
+            "id": 16,
+            "name" : "MINISTRY OF HOUSING"
+        },
+        
+        {
+            "id": 17,
+            "name" : "MINISTRY OF HUMAN DEVELOPMENT AND POVERTY REDUCTION"
+        },
+        
+        {
+            "id": 18,
+            "name" : "MINISTRY OF INFORMATION"
+        },
+        
+        {
+            "id": 19,
+            "name" : "MINISTRY OF HEALTH"
+        },
+        
+        {
+            "id": 20,
+            "name" : "MINISTRY OF INTER-MINISTRIAL AFFAIRS"
+        },
+        
+        {
+            "id": 21,
+            "name" : "MINISTRY OF JUSTICE"
+        },
+        
+        {
+            "id": 22,
+            "name" : "MINISTRY OF LABOUR AND PRODUCTIVITY"
+        },
+        
+        {
+            "id": 23,
+            "name" : "MINISTRY OF LANDS"
+        },
+        
+        {
+            "id": 24,
+            "name" : "MINISTRY OF LOCAL GOVERNMENT MATTERS"
+        },
+        
+        {
+            "id": 25,
+            "name" : "MINISTRY OF RURAL DEVELOPMENT"
+        },
+        
+        {
+            "id": 26,
+            "name" : "MINISTRY OF SCIENCE AND TECHNOLOGY"
+        },
+        
+        {
+            "id": 27,
+            "name" : "MINISTRY OF TRANSPORT"
+        },
+        
+        {
+            "id": 28,
+            "name" : "MINISTRY OF WATER RESOURCES"
+        },
+        
+        {
+            "id": 29,
+            "name" : "MINISTRY OF WORKS AND INFRASTRUCTURE"
+        },
+        
+        {
+            "id": 30,
+            "name" : "MINISTRY OF YOUTH AND SPORTS"
+        }
+    ]
+}

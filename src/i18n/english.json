@@ -1,0 +1,52 @@
+{
+   "APP_NAME": "NRS",
+
+   "HOME": "HOME",
+   "SHOP": "SHOP",
+   "BR_CLUB": "BR CLUB",
+   "BR_MONEY": "BR MONEY",
+   "CHAT": "CHAT",
+
+   //Navigation Drawer
+   "DISCUSS_SPACE":"Discussion Space",
+   "ENUGU_EXECUTIVE_COUNCIL":"The Enugu Executive Council",
+   "ENUGU_MARKET":"The Enugu Market",
+   "SIGN_OUT":"Sign Out",   
+
+   "USER_NAME": "User name",
+   "EMAIL": "Email",
+   "PASSWORD": "Password",
+   "FORGOT_PASSWORD": "Forgot password?",
+   "LOGIN": "LOGIN",
+   "DONT_HAVE_ACCOUNT": "Don't have an account?",
+   "CREATE_ONE": "New here? Sign Up",
+   "CREATE_ACCOUNT": "CREATE ACCOUNT",
+   
+   "MINISTRIES": "Ministries",
+   "REPORT": "Report a crime",
+   "TAXES": "Pay your taxes",
+
+   "REPORT_TITLE": "REPORT A CRIME",
+   "CHAT_TITLE":"CHAT WITH THE GOVORNER",
+   "ENUGU_COUNCIL": "ENUGU COUNCIL",
+   "PROFILE": "Profile",
+   "LOGIN_SIGNUP": "LOGIN/SIGNUP",
+   "NEWUSER":"NEW USER",
+   "CHOOSE_PROFILE_PICTURE": "Choose a profile picture",
+   "FIRSTNAME": "First name",
+   "LASTNAME": "Last name",
+   "EMAILADDRESS": "Email Address",
+   "SUBMIT": "Submit",
+   "PAYYOURTAXES":"PAY YOUR TAXES",
+   "SELECTTAXTOPAY": "Select the tax you would like to pay",
+   "NAMEONCARD": "Name On Card",
+   "CARDNUMBER": "Card Number",
+   "CARDEXPIRYDATE":"Card Expiry Date",
+   "SECCODE":"Security Code(CVV)",
+   "REPORT_DESCRIPTION":"Have you witnessed a crime?",
+   "REPORT_DESCRIPTION1": "Report it right now",
+   "DESCRIPTION_OF_CRIME":"Description of the crime",
+   "ADD_PHOTO":"Add photo description of the incident",
+   "ADD_VIDEO":"Add video description of the incident",
+   "EXACT_LOCATION":"The exact location where the event happened"
+}
